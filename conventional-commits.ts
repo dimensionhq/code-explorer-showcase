@@ -12,7 +12,7 @@ export type BlogInfoType = {
 
 export const blogsData: BlogInfoType[] = [
   {
-    link: "/pre-seed",
+    link: "/pre-seed", 
     date: "12th December 2022",
     description:
       "Raising a pre-seed to change the way developers build software.",
