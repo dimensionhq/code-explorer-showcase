@@ -1,6 +1,8 @@
 import { StaticImageData } from "next/image";
 import BlogImage1 from "../public/images/Blog/blog-image-1.png";
 
+// specific to this branch
+
 export type BlogInfoType = { 
   link: string;
   image: StaticImageData;
